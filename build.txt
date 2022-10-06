@@ -1,0 +1,7 @@
+displayName = Roman Numeral Damage Numbers
+author = Oli
+version = 1.0
+side = Client
+hideCode = false
+hideResources = false
+buildIgnore = vs/*, *.csproj, *.sln, *.pidb, *.userprefs, *.user, obj/*, bin/*
